@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi There, I'm glad you're here.
 
 <!--
 **abusyafii/abusyafii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
